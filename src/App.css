@@ -92,7 +92,10 @@ padding: 10px;
   flex-direction: row;
   justify-content: flex-start;
 }
-
+.question-item:hover {
+font-weight: bold;
+color:cornflowerblue;
+}
 .question-info {
   display: flex;
   justify-content: space-between;
